@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#58a632</color>
+    <color name="colorAccent">#696969</color>
+
+    <color name="background">#ededed</color>
+
+    <color name="notLikedButtonColor">#faffb8</color>
+    <color name="likedButtonColor">#b8ffba</color>
+</resources>

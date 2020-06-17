@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YoutubeMVVM</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="fetching_movies">Fetching movies…</string>
+    <string name="movies_list">Movies List</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="back_button">Back button</string>
+</resources>
